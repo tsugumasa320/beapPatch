@@ -17,6 +17,6 @@ Simple overdrive for BEAP module.
 
 ### [State variable filter](https://github.com/tsugumasa320/beapPatch/blob/main/bp.svFilter.maxpat)
 
-Simple state variable filter for BEAP module.
+Simple State Variable filter for BEAP module.
 
 
