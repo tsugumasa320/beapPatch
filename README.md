@@ -15,8 +15,8 @@ Single oscillator for BEAP module. (WIP)
 
 Simple overdrive for BEAP module.
 
-### [State variable filter](https://github.com/tsugumasa320/beapPatch/blob/main/bp.svFilter.maxpat)
+### [State Variable Filter](https://github.com/tsugumasa320/beapPatch/blob/main/bp.svFilter.maxpat)
 
-Simple State Variable filter for BEAP module.
+Simple state variable filter for BEAP module.
 
 
